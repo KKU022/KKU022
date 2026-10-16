@@ -38,7 +38,11 @@
 > — **Martin Fowler**
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KKU022&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://github.com/KKU022/AI-resume-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKU022&repo=AI-resume-analyzer&theme=radical&show_owner=true" alt="AI Resume Analyzer Repo" />
+  </a>
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=KKU022&icon=0&color=0)](https://visitcount.itsvg.in)
