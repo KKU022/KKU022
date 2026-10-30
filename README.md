@@ -40,16 +40,9 @@
 
 ## 🔝 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/KKU022/Krishi-AgriTech">
-    <img src="https://gh-card.dev/repos/KKU022/Krishi-AgriTech.svg?fullname=&link_target=_blank" alt="Krishi AgriTech" width="400" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KKU022/AI-resume-analyzer">
-    <img src="https://gh-card.dev/repos/KKU022/AI-resume-analyzer.svg?fullname=&link_target=_blank" alt="AI Resume Analyzer" width="400" />
-  </a>
-</p>
-
+| 🌾 **Krishi AgriTech** | 📄 **MEDHA -- AI Resume Analyzer** |
+| :--- | :--- |
+| ![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square) ![Tech](https://img.shields.io/badge/Stack-TypeScript_%7C_React_%7C_Gemini_AI-blue?style=flat-square) | ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square) ![Tech](https://img.shields.io/badge/Stack-MERN_%7C_TypeScript_%7C_AI-blue?style=flat-square) |
+| Digital Smart Farming Platform integrating rule-based crop advisory and multimodal Gemini AI plant disease diagnostics. | AI-powered resume analyzer that parses candidate resumes to generate contextual, actionable feedback and scoring. |
+| 🔗 [Live Demo](https://krishi-agritech.vercel.app/) &nbsp;•&nbsp; 💻 [Source Code](https://github.com/KKU022/Krishi-AgriTech) | 🔗 [Live Demo](https://medha-ai-gx.vercel.app/) &nbsp;•&nbsp; 💻 [Source Code](https://github.com/KKU022/AI-resume-analyzer) |
 
