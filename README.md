@@ -40,11 +40,15 @@
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
 > — **Martin Fowler**
 
-### 🔝 Featured Projects
-<p align="left">
+## 🔝 Featured Projects
+
+<p align="center">
   <a href="https://github.com/KKU022/Krishi-AgriTech">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKU022&repo=Krishi-AgriTech&theme=radical&show_owner=true" alt="Krishi AgriTech Repo" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/KKU022/AI-resume-analyzer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKU022&repo=AI-resume-analyzer&theme=radical&show_owner=true" alt="AI Resume Analyzer Repo" />
   </a>
