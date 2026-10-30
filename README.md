@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/KKU022/Krishi-AgriTech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKU022&repo=Krishi-AgriTech&theme=radical&show_owner=true" alt="Krishi AgriTech Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKU022&repo=Krishi-AgriTech&theme=radical&show_owner=true&cache_bust=1" alt="Krishi AgriTech Repo" />
   </a>
 </p>
 
@@ -51,7 +51,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KKU022&repo=AI-resume-analyzer&theme=radical&show_owner=true" alt="AI Resume Analyzer Repo" />
   </a>
 </p>
-
 ---
 
 
